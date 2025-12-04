@@ -1,6 +1,7 @@
 # Ubuntu_option
 # Ubuntu_option
-1. <img width="1251" height="180" alt="image" src="https://github.com/user-attachments/assets/12d4c43c-aeb7-474e-987c-67ab0f7041eb" />
+1. windows转ubuntu格式问题
+    <img width="1251" height="180" alt="image" src="https://github.com/user-attachments/assets/12d4c43c-aeb7-474e-987c-67ab0f7041eb" />
 
 这是一个非常经典的问题！
 
@@ -15,3 +16,5 @@ Linux 把 #!/bin/bash\r 当成了解释器路径，因为找不到在这个名�
 ```sh
 sed -i 's/\r$//' install.sh
 ```
+2. 转到已经打开目录下的文件夹
+   cd xxxx/
