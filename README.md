@@ -1,6 +1,7 @@
 # Ubuntu_option
 # Ubuntu_option
-1. ![alt text](image.png)
+1. <img width="1251" height="180" alt="image" src="https://github.com/user-attachments/assets/12d4c43c-aeb7-474e-987c-67ab0f7041eb" />
+
 这是一个非常经典的问题！
 
 错误信息中的 ^M 暴露了原因：这个脚本文件是 Windows 格式 的（带有回车符 \r\n），但 Linux 系统只认识 Unix 格式（只有换行符 \n）。
